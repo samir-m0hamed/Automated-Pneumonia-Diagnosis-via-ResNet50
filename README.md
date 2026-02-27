@@ -1,4 +1,4 @@
-# 🫁 Pneumonia Detection via ResNet50 (Transfer Learning & Fine-Tuning)
+# Pneumonia Detection via ResNet50 (Transfer Learning & Fine-Tuning)
 
 Deep learning system for automated pneumonia classification from chest X-ray images using a pretrained ResNet50 architecture.  
 The pipeline follows a two-stage training strategy: feature extraction and full network fine-tuning to maximize diagnostic performance.
