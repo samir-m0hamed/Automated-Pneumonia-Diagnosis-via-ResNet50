@@ -137,7 +137,7 @@ pneumonia-resnet50/
 │
 ├── Pneumonia_Detection_via_ResNet50.ipynb
 │
-├── Pneumpnia Detection via ResNet/
+├── Pneumonia Detection via ResNet/
 │   ├── confusion matrix.png
 │   ├── Feature Extraction Results.png
 │   ├── fine tuning results.png
