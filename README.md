@@ -132,12 +132,16 @@ jupyter notebook Pneumonia_Detection_via_ResNet50.ipynb
 
 ## 📁 Repository Structure
 
+pneumonia-resnet50/
+│
 ├── Pneumonia_Detection_via_ResNet50.ipynb
+│
 ├── Pneumpnia Detection via ResNet/
 │   ├── confusion matrix.png
 │   ├── Feature Extraction Results.png
 │   ├── fine tuning results.png
 │   └── ROC Curve.png
+│
 └── README.md
 
 ---
@@ -151,5 +155,3 @@ This project is for research and educational purposes
 ## 👩‍💻 Author
 
 **Samir Mohamed : AI & Computer Vision Engineer**
-
----
